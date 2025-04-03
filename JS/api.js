@@ -1,4 +1,4 @@
-async function conexionLista() {
+async function conexionHome() {
     const res = await fetch()
     const data = await res.json()
     return data.results;
